@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
  }
+.two-experience{
+    font-size: 40px;
+}
  .orange-color{
      color: orange;
  }
@@ -37,7 +40,7 @@ h1{
 }
 .victory{
     border-radius: 50%;
-    width: 400px;
+    width: 550px;
    
 }
 .dream{
@@ -47,8 +50,36 @@ h1{
 }
 .third-section{
     display: flex;
-    border-radius: 50%;
+    margin-bottom: 100px;
     
-}
+    }
+.shadow-box{
+      width: 40%;  
+      margin-left: 5%;
+      margin-right: 5%;
+      box-shadow: 10px 10px 40px gray;
+      padding-left: 10px;  
+    }  
+    .final-section{
+        background-image: url(img/my-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100px;
+    } 
+    #full-stock{
+        border-left: 7px solid;
+        border-image: linear-gradient(tomato, orange ) ;
+        border-image-slice: 1;
+        } 
+        #baby-web{
+            border-left: 7px solid;
+        border-image: linear-gradient(blue, cyan ) ;
+        border-image-slice: 1;
+
+        }
+        .footer p{
+            text-align: justify;
+        }
+
 
  
