@@ -77,8 +77,8 @@ h1{
         border-image-slice: 1;
 
         }
-        .footer p{
-            text-align: justify;
+        footer p {
+            text-align: center;
         }
 
 
